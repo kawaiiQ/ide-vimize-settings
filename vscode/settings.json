@@ -1,0 +1,16 @@
+{
+    "vim.useSystemClipboard": true,
+    "vim.foldfix": true,
+    "vim.hlsearch": true,
+    "vim.searchHighlightColor": "#888800",
+    "vim.normalModeKeyBindings": [
+        {
+            "before": [","],
+            "after":  ["g", "T"]
+        },
+        {
+            "before": ["."],
+            "after":  ["g", "t"]
+        }
+    ]
+}
