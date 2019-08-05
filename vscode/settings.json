@@ -1,0 +1,7 @@
+{
+    "latex-workshop.view.pdf.viewer": "tab",
+    "vim.useSystemClipboard": true,
+    "vim.foldfix": true,
+    "vim.hlsearch": true,
+    "vim.searchHighlightColor": "#888800",
+}
